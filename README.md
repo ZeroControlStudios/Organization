@@ -48,6 +48,12 @@ Individual repositories may contain additional or different terms governing thei
 
 Where a project includes its own `LICENSE`, `NOTICE`, or other specific legal documentation, those terms govern that project and take precedence over this general organizational statement where applicable.
 
+## Recruitment
+
+ZeroControlStudios may open recruitment opportunities for developers, contributors, and other roles as projects and studio activities develop.
+
+Current opportunities, when available, are published through the appropriate official channels.
+
 ---
 
 **ZeroControlStudios**
