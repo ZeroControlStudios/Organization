@@ -48,6 +48,12 @@ Les différents dépôts peuvent contenir des conditions supplémentaires ou dif
 
 Lorsqu'un projet contient son propre fichier `LICENSE`, `NOTICE` ou toute autre documentation juridique spécifique, ces conditions régissent le projet concerné et prévalent sur les présentes dispositions générales dans la mesure applicable.
 
+## Recrutement
+
+ZeroControlStudios peut ouvrir des opportunités de recrutement pour des développeurs, contributeurs et autres profils selon l'évolution des projets et des activités du studio.
+
+Les opportunités actuellement disponibles, lorsqu'elles existent, sont publiées via les canaux officiels appropriés.
+
 ---
 
 **ZeroControlStudios**
